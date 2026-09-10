@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="assets/header.gif" width="480" alt="pixel art axolotl aquarium" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-pet.svg" />
+    <img src="assets/h-pet-light.svg" alt="lihat peliharaanku!" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="assets/header.gif" width="480" alt="akuarium axolotl pixel art" />
 </p>
 
 <p align="center">
@@ -19,53 +26,33 @@
 
 <img src="assets/face.svg" align="left" width="400" alt="pixel axolotl" />
 
-**I don't write code. I describe problems — the AI does the typing.**
+**gw gak ngoding. gw cuma cerewet ke AI sampe dia nyerah.** 🫠
 
-No CS degree, no bootcamp, no formal training. Everything here gets built between work hours, because doing the same thing manually for the hundredth time finally got old.
+no CS degree, no bootcamp, no idea what i'm doing. tapi jalan sih, entah gimana caranya.
 
-My stack is basically `plain Indonesian` → `AI` → `working software`. Turns out the hard part was never the syntax — it's knowing the problem well enough to explain it properly.
+stack gw literally cuma: `bahasa Indonesia` → `AI` → `software yang beneran jalan`. ternyata bagian susahnya bukan syntax, tapi ngejelasin maunya apa — dan itu satu-satunya skill yang gw punya, murni hasil kebanyakan protes.
 
-I build what I personally need: automations that kill repetitive work, spreadsheet tooling that does what spreadsheets were never meant to do, and small utilities nobody would ever ship as a product. Side project energy, not portfolio grind.
+yang gw bikin? apa aja yang bikin gw males ngerjain manual. automation biar gak ngulang kerjaan yang sama 100 kali, tooling spreadsheet buat hal yang Google sendiri gak niatin, sama tools receh yang cuma gw doang yang buka. bukan portfolio, bukan ngejar apa-apa — beneran iseng sela-sela kerja doang.
 
-**Open to collab** if any of this is useful to you.
+**buka buat kolab** kalau ada yang kepake. gaskeun 🤝
 
 <br clear="left" />
 
 <details>
-<summary><b>🇮🇩 Baca versi Bahasa Indonesia</b></summary>
+<summary><b>🇬🇧 english version (biar keliatan niat)</b></summary>
 <br>
 
-**Aku nggak nulis kode. Aku jelasin masalahnya — AI yang ngetik.**
+**i don't write code. i just yap at the AI until it gives up.** 🫠
 
-Nggak kuliah IT, nggak pernah bootcamp, nggak ada training formal. Semua ini dibikin di sela jam kerja, karena capek juga ngerjain hal yang sama manual terus.
+no CS degree, no bootcamp, genuinely no clue what i'm doing. ships anyway. somehow.
 
-Stack-ku pada dasarnya `bahasa Indonesia` → `AI` → `software yang jalan`. Ternyata bagian susahnya bukan syntax — tapi paham masalahnya cukup dalam sampai bisa dijelasin dengan benar.
+my stack is literally `talking in Indonesian` → `AI` → `deployed`. turns out the hard part was never syntax — it's explaining what you actually want, which i'm only good at because i complain a lot.
 
-Aku bikin apa yang aku butuhin sendiri: automation buat kerjaan repetitif, tooling spreadsheet buat hal yang spreadsheet nggak dirancang buat itu, dan utilities kecil yang nggak bakal ada yang jual. Energi project iseng, bukan ngejar portfolio.
+what i build: whatever i was too lazy to keep doing by hand. automations so i stop repeating the same task 100 times, spreadsheet tooling for things Google never intended, and tiny tools nobody but me will ever open. not a portfolio, not chasing anything — genuinely just messing around between shifts.
 
-**Terbuka buat kolaborasi** kalau ada yang kepake buat kamu.
+**open to collab** if any of it is useful. hmu 🤝
 
 </details>
-
-<p align="center">
-  <img src="assets/divider.svg" width="880" alt="" />
-</p>
-
-<p><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack.svg" />
-  <img src="assets/h-stack-light.svg" alt="Stack" />
-</picture></p>
-
-<p>
-  <img src="assets/chip-ai.svg" alt="AI Generated" />
-  <img src="assets/chip-js.svg" alt="JavaScript" />
-  <img src="assets/chip-appsscript.svg" alt="Apps Script" />
-  <img src="assets/chip-python.svg" alt="Python" />
-  <img src="assets/chip-node.svg" alt="Node.js" />
-  <img src="assets/chip-html.svg" alt="HTML" />
-  <img src="assets/chip-css.svg" alt="CSS" />
-  <img src="assets/chip-git.svg" alt="Git" />
-</p>
 
 <p align="center">
   <img src="assets/divider.svg" width="880" alt="" />
@@ -86,14 +73,34 @@ Aku bikin apa yang aku butuhin sendiri: automation buat kerjaan repetitif, tooli
 </p>
 
 <p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack.svg" />
+  <img src="assets/h-stack-light.svg" alt="Stack" />
+</picture></p>
+
+<p align="center">
+  <img src="assets/hop.svg" width="720" alt="axolotl lompatin tanaman air" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-noskills.svg" />
+    <img src="assets/h-noskills-light.svg" alt="No skills at all" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="880" alt="" />
+</p>
+
+<p><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-collab.svg" />
   <img src="assets/h-collab-light.svg" alt="Let's talk" />
 </picture></p>
 
-If something here is useful to you, hit me up. Especially interested in talking to people who are also building without a traditional dev background — there are more of us than you'd think.
+kalau ada yang kepake, sikat aja DM-nya. gw paling seneng ngobrol sama orang yang juga bikin sesuatu tanpa background dev — ternyata kita rame, cuma pada gengsi ngaku.
 
 <p align="center">
-  <sub>⚡ my most-used programming language is plain Indonesian</sub>
+  <sub>⚡ bahasa pemrograman yang paling sering gw pake: bahasa Indonesia</sub>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
