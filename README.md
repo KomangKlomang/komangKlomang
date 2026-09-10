@@ -24,7 +24,7 @@
   <img src="assets/h-whoami-light.svg" alt="Who am I?" />
 </picture></p>
 
-<img src="assets/face.svg" align="left" width="390" height="208" alt="pixel axolotl" />
+<img src="assets/face.gif" align="left" width="443" height="237" alt="pixel axolotl" />
 
 **gw gak ngoding. gw cuma cerewet ke AI sampe dia nyerah.** 🫠
 
@@ -116,6 +116,9 @@ kalau ada yang kepake, sikat aja DM-nya. gw paling seneng ngobrol sama orang yan
   📈 ACTIVITY GRAPH / 🔥 STREAK — third-party hosts, frequently down
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomangKlomang&theme=tokyo-night&hide_border=true&area=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KomangKlomang&theme=tokyonight&hide_border=true" />
+
+  🖼️ STATIC FACE — swap in assets/face-still.png (11 KB, no motion, no play button)
+  <img src="assets/face-still.png" align="left" width="443" height="237" alt="pixel axolotl" />
 
   🤖 EARLIER ROBOT THEME — assets/runner.svg + assets/emblem.svg are still in the repo
   <img src="assets/runner.svg" width="880" alt="runner" />
