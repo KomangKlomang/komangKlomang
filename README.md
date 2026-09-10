@@ -68,8 +68,8 @@ what i build: whatever i was too lazy to keep doing by hand. automations so i st
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KomangKlomang&show_icons=true&hide_border=true&bg_color=1A0F2E&title_color=B39DDB&icon_color=9575CD&text_color=C9B8E8&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomangKlomang&layout=compact&hide_border=true&langs_count=6&bg_color=1A0F2E&title_color=B39DDB&text_color=C9B8E8" />
+  <img src="assets/stats-main.svg" width="366" height="270" alt="GitHub stats" />
+  <img src="assets/stats-langs.svg" width="366" height="270" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -121,7 +121,9 @@ kalau ada yang kepake, sikat aja DM-nya. gw paling seneng ngobrol sama orang yan
   🏙️ 3D GRAPH (needs .github/workflows/profile-3d.yml + one run)
   <img src="https://raw.githubusercontent.com/KomangKlomang/komangKlomang/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
-  📈 ACTIVITY GRAPH / 🔥 STREAK — third-party hosts, frequently down
+  📈 ACTIVITY GRAPH / 🔥 STREAK — third-party hosts, frequently down.
+  NOTE: github-readme-stats returns 503 DEPLOYMENT_PAUSED as of 2026-09-11;
+  the stats cards are generated locally instead (see tools/gen_stats.py).
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomangKlomang&theme=tokyo-night&hide_border=true&area=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KomangKlomang&theme=tokyonight&hide_border=true" />
 
