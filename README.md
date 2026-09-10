@@ -24,7 +24,7 @@
   <img src="assets/h-whoami-light.svg" alt="Who am I?" />
 </picture></p>
 
-<img src="assets/face.svg" align="left" width="400" alt="pixel axolotl" />
+<img src="assets/face.svg" align="left" width="390" height="208" alt="pixel axolotl" />
 
 **gw gak ngoding. gw cuma cerewet ke AI sampe dia nyerah.** 🫠
 
