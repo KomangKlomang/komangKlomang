@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300" role="img" aria-label="404 emblem">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#b39ddb"/>
+      <stop offset="55%"  stop-color="#7e57c2"/>
+      <stop offset="100%" stop-color="#4a2f7a"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#e1bee7"/>
+      <stop offset="100%" stop-color="#9575cd"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .m     { font-family: "JetBrains Mono", "DejaVu Sans Mono", Consolas, monospace; }
+    @keyframes spin  { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes spinb { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
+    @keyframes pulse { 0%,100% { opacity: .35; transform: scale(1); } 50% { opacity: .7; transform: scale(1.04); } }
+    @keyframes glitch{
+      0%, 88%, 100% { transform: translate(0,0); opacity: 1; }
+      90%           { transform: translate(-2px,1px); opacity: .85; }
+      93%           { transform: translate(2px,-1px); opacity: .9; }
+      96%           { transform: translate(-1px,0); opacity: 1; }
+    }
+    .ring1 { animation: spin 18s linear infinite;  transform-origin: 150px 150px; }
+    .ring2 { animation: spinb 26s linear infinite; transform-origin: 150px 150px; }
+    .halo  { animation: pulse 4s ease-in-out infinite; transform-origin: 150px 150px; }
+    .code  { animation: glitch 5s steps(1) infinite; }
+  </style>
+
+  <circle class="halo" cx="150" cy="150" r="128" fill="#7e57c2" opacity=".35"/>
+  <circle cx="150" cy="150" r="108" fill="#1a0f2e"/>
+  <circle cx="150" cy="150" r="108" fill="none" stroke="url(#g1)" stroke-width="6"/>
+
+  <g class="ring1" fill="none" stroke="url(#g2)" stroke-width="3" stroke-linecap="round" opacity=".85">
+    <circle cx="150" cy="150" r="124" stroke-dasharray="46 30"/>
+  </g>
+  <g class="ring2" fill="none" stroke="#b39ddb" stroke-width="2" stroke-linecap="round" opacity=".5">
+    <circle cx="150" cy="150" r="138" stroke-dasharray="8 26"/>
+  </g>
+
+  <g class="code">
+    <text class="m" x="150" y="142" text-anchor="middle" font-size="60" font-weight="700" fill="url(#g2)">404</text>
+    <text class="m" x="150" y="176" text-anchor="middle" font-size="17" letter-spacing="3" fill="#9d8ec4">ANGGORO</text>
+    <text class="m" x="150" y="202" text-anchor="middle" font-size="13" letter-spacing="1" fill="#7e57c2">&lt;/&gt; by prompt</text>
+  </g>
+</svg>
