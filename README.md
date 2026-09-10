@@ -19,10 +19,12 @@
   <img src="assets/divider.svg" width="880" alt="" />
 </p>
 
-<p><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-whoami.svg" />
-  <img src="assets/h-whoami-light.svg" alt="Who am I?" />
-</picture></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-whoami.svg" />
+    <img src="assets/h-whoami-light.svg" alt="Who am I?" />
+  </picture>
+</p>
 
 <img src="assets/face.gif" align="left" width="443" height="237" alt="pixel axolotl" />
 
@@ -58,10 +60,12 @@ what i build: whatever i was too lazy to keep doing by hand. automations so i st
   <img src="assets/divider.svg" width="880" alt="" />
 </p>
 
-<p><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stats.svg" />
-  <img src="assets/h-stats-light.svg" alt="Stats" />
-</picture></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-stats.svg" />
+    <img src="assets/h-stats-light.svg" alt="Stats" />
+  </picture>
+</p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=KomangKlomang&show_icons=true&hide_border=true&bg_color=1A0F2E&title_color=B39DDB&icon_color=9575CD&text_color=C9B8E8&count_private=true" />
@@ -72,10 +76,12 @@ what i build: whatever i was too lazy to keep doing by hand. automations so i st
   <img src="assets/divider.svg" width="880" alt="" />
 </p>
 
-<p><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack.svg" />
-  <img src="assets/h-stack-light.svg" alt="Stack" />
-</picture></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack.svg" />
+    <img src="assets/h-stack-light.svg" alt="Stack" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="assets/hop.svg" width="720" alt="axolotl lompatin tanaman air" />
@@ -83,8 +89,8 @@ what i build: whatever i was too lazy to keep doing by hand. automations so i st
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/h-noskills.svg" />
-    <img src="assets/h-noskills-light.svg" alt="No skills at all" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-mediocre.svg" />
+    <img src="assets/h-mediocre-light.svg" alt="Hate being mediocre" />
   </picture>
 </p>
 
@@ -92,10 +98,12 @@ what i build: whatever i was too lazy to keep doing by hand. automations so i st
   <img src="assets/divider.svg" width="880" alt="" />
 </p>
 
-<p><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-collab.svg" />
-  <img src="assets/h-collab-light.svg" alt="Let's talk" />
-</picture></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/h-collab.svg" />
+    <img src="assets/h-collab-light.svg" alt="Let's talk" />
+  </picture>
+</p>
 
 kalau ada yang kepake, sikat aja DM-nya. gw paling seneng ngobrol sama orang yang juga bikin sesuatu tanpa background dev — ternyata kita rame, cuma pada gengsi ngaku.
 
