@@ -12,9 +12,12 @@
   <img src="assets/divider.svg" width="880" alt="" />
 </p>
 
-<p><img src="assets/h-whoami.svg" alt="Who am I?" /></p>
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-whoami.svg" />
+  <img src="assets/h-whoami-light.svg" alt="Who am I?" />
+</picture></p>
 
-<img src="assets/face.gif" align="left" width="447" alt="pixel axolotl" />
+<img src="assets/face.svg" align="left" width="400" alt="pixel axolotl" />
 
 **I don't write code. I describe problems — the AI does the typing.**
 
@@ -48,7 +51,10 @@ Aku bikin apa yang aku butuhin sendiri: automation buat kerjaan repetitif, tooli
   <img src="assets/divider.svg" width="880" alt="" />
 </p>
 
-<p><img src="assets/h-stack.svg" alt="Stack" /></p>
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack.svg" />
+  <img src="assets/h-stack-light.svg" alt="Stack" />
+</picture></p>
 
 <p>
   <img src="assets/chip-ai.svg" alt="AI Generated" />
@@ -65,7 +71,10 @@ Aku bikin apa yang aku butuhin sendiri: automation buat kerjaan repetitif, tooli
   <img src="assets/divider.svg" width="880" alt="" />
 </p>
 
-<p><img src="assets/h-stats.svg" alt="Stats" /></p>
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stats.svg" />
+  <img src="assets/h-stats-light.svg" alt="Stats" />
+</picture></p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=KomangKlomang&show_icons=true&hide_border=true&bg_color=1A0F2E&title_color=B39DDB&icon_color=9575CD&text_color=C9B8E8&count_private=true" />
@@ -76,7 +85,10 @@ Aku bikin apa yang aku butuhin sendiri: automation buat kerjaan repetitif, tooli
   <img src="assets/divider.svg" width="880" alt="" />
 </p>
 
-<p><img src="assets/h-collab.svg" alt="Let's talk" /></p>
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-collab.svg" />
+  <img src="assets/h-collab-light.svg" alt="Let's talk" />
+</picture></p>
 
 If something here is useful to you, hit me up. Especially interested in talking to people who are also building without a traditional dev background — there are more of us than you'd think.
 
